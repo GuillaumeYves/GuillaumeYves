@@ -1,7 +1,5 @@
 # 👋Bienvenue sur mon profil
 
----
-
 ### 💻 À propos de moi
 
 - Actuellement alternant chez **Enedis** pour une durée de **2 ans**
