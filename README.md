@@ -1,8 +1,8 @@
-# 👋Bienvenue sur mon profil
+👋Bienvenue sur mon profil
 
 ---
 
-## 💻 À propos de moi
+💻 À propos de moi
 
 - Actuellement alternant chez **Enedis** pour une durée de **2 ans**
 - Je travaille principalement sur des **outils internes**  
@@ -11,26 +11,29 @@
 
 ---
 
-## 🛠️ Stacks
+🛠️ Stacks
 
-### Langages & Frameworks
+Langages & Frameworks
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/Ruby_on_Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 
-### Frontend
+Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Base de données
+Base de données
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 🎮 Game Development
+🎮 Game Development
 
 En dehors du cadre professionnel, je développe des projets orientés **jeu vidéo** :
 
@@ -44,7 +47,7 @@ En dehors du cadre professionnel, je développe des projets orientés **jeu vid�
 
 ---
 
-## 📌 À propos de ce GitHub
+📌 À propos de ce GitHub
 
 - Peu de repositories publics liés à mon travail principal  
 - Les projets visibles sont principalement :
@@ -54,7 +57,7 @@ En dehors du cadre professionnel, je développe des projets orientés **jeu vid�
 
 ---
 
-## 🎯 Objectifs
+🎯 Objectifs
 
 - Monter en compétence
 - Renforcer mon expertise
