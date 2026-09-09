@@ -1,7 +1,17 @@
 <p align="center">
   <img src="https://media1.tenor.com/m/_xLQrMsEfNYAAAAd/scriptkitty-coder-cat.gif" width="150" alt="Coding cat gif" />
 </p>
+
 <h1 align="center"> Guillaume YVES </h1>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=GuillaumeYves&theme=transparent&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&fire=EB9215&currStreakNum=1B75EB&ring=1B75EB&stroke=1B75EB&dates=1559B3&sideNums=1B75EB&currStreakLabel=1B75EB&sideLabels=1B75EB&excludeDaysLabel=1B75EB"
+      alt="GitHub Streak"
+    />
+  </a>
+</p>
+
 <p align="center">  Actuellement en alternance chez <strong> Enedis </strong> jusqu'en <strong> août 2027 </strong> </p>
 
 La tête dans le code depuis maintenant 4 ans, j’aime construire des projets concrets qui répondent à un besoin réel.\
